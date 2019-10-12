@@ -86,7 +86,7 @@ WSGI_APPLICATION = 'ForumSystem.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'HOST': '47.74.85.68',
+        'HOST': 'localhost',
         'NAME': 'forum',    #你的数据库名称
         'USER': 'postgres',   #你的数据库用户名
         'PASSWORD': 'postgres',
