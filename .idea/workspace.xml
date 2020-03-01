@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a73c0aef-8451-43dd-af24-d80db681a16c" name="Default Changelist" comment="">
+    <list default="true" id="a73c0aef-8451-43dd-af24-d80db681a16c" name="Default Changelist" comment="[lucas] change the database ip">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForumSystem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForumSystem/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForumSystem/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForumSystem/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="Git.Update.Project.Info.Tabs.Properties">
+    <option name="BEK_SORT_TYPE" value="1" />
+    <option name="HIGHLIGHTERS">
+      <map>
+        <entry key="MY_COMMITS" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectId" id="1RXBlYLJ814HzDiWfTS0aXid0Nl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -66,7 +74,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -103,7 +111,7 @@
         <env name="DJANGO_SETTINGS_MODULE" value="ForumSystem.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Program_Project/Forum_Project/ForumSystem-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -142,6 +150,8 @@
       <workItem from="1570509352001" duration="997000" />
       <workItem from="1570674551728" duration="1767000" />
       <workItem from="1570754422818" duration="5902000" />
+      <workItem from="1570924294697" duration="15000" />
+      <workItem from="1579863028882" duration="2605000" />
     </task>
     <task id="LOCAL-00001" summary="[lucas] test">
       <created>1570509410630</created>
@@ -178,6 +188,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
